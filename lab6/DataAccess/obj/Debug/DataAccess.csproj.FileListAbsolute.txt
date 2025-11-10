@@ -1,0 +1,12 @@
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\bin\Debug\DataAccess.dll
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\bin\Debug\DataAccess.pdb
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.dll
+Y:\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\DataAccess\obj\Debug\DataAccess.pdb
